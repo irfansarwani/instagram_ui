@@ -20,7 +20,7 @@ class _HomeScreenState extends State<HomeScreen> {
   final List<Widget> _childten = [
     Home(),
     const SearchScreen(),
-    const Reels(),
+    Reels(),
     const Shop(),
     const Profile(),
   ];
